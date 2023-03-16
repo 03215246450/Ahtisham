@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-weight: bolder;
+    font-size: 50px;
+    line-height: 1;  
+    display: flex;
+    flex-wrap: wrap;
+}
+.image{
+    background-image: url("https://wallpaperaccess.com/full/937101.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100%;
+}
+.paragraph2{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    line-height: 2;
+
+    
+}
+h3{
+    color: white;
+}
+button{
+    width: 150px;
+
+}
+.col-md-3{
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 8px
+    
+}
+.para{
+    font-size: large;
+    font-weight: 400;
+    text-align: center;
+    line-height: 30px;
+    padding-left: 20px;
+}
+.para2{
+    font-size:large;
+    font-weight: 400;
+    line-height: 30px;
+    background-color: rgba(128, 128, 128, 0.146);
+    padding: 20px;
+    text-align: center;
+
+}
+h2{
+    font-weight: 700;
+    text-align: center;
+}
+button{
+    margin: 10px;
+}
+.para3{
+    font-size:large;
+    font-weight: 400;
+    line-height: 40px;
+    background-color: ;
+    padding: 10px;
+}
+.col-md-6{
+    padding: 10px;
+}
+h4{
+    font-weight: bold;
+    padding-top: 10px;
+    background-color: rgb(189, 181, 181);
+}
+.para4{
+    font-size:large;
+    font-weight: 400;
+}
+.colordiv{
+    background-color:#f2f2f2 ;
+}
+.para5{
+    font-size:large;
+    font-weight: 400;
+    line-height: 30px;
+    justify-content: center;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    padding: 10px;
+}
+.para6{
+    font-size:large;
+    font-weight: 400;
+    line-height: 30px;
+    justify-content: center;
+}
+h2{
+    color: white;
+    background-color: orange;
+    padding: 50px;
+}
+img{
+    margin: 10px;
+}
+.para7{
+    color: black;
+    font-size:large;
+    font-weight: 400;
+    line-height: 30px;
+    justify-content: center;
+}
+h4{
+    background-color: white;
+    padding: 50px;
+}
+span{
+    width: 300px;
+}
+.para8{
+    color: black;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.para9{
+    color: black;
+    font-size:large;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.para10{
+    color: black;
+    font-size:large;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    justify-content: center;
+
+}
+.para11{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    justify-content: center;
+    background-color: #fefbf2;
+}
+.para12{
+    background-color: #fefbf2;
+}
+.h2{
+font-size: 40px;
+font-weight: bold;
+background-color: #d4944a;
+padding: 40px;
+}
+.btn{
+ text-align: center; 
+ padding: 20px; 
+}
+.div11{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.para13{
+    color: white;
+    font-size:large;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    justify-content: center;
+
+}
+ul{
+    line-height: 50px;
+}
+.h1-2{
+    font-size: 60px;
+    background-color: #F9DE9B
+}
+.h1-3{
+    background-color: orange;
+    font-size: 60px;
+}
